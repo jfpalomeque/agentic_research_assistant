@@ -17,5 +17,5 @@ Install these before using the repository:
 
 ## Example workflows
 
-1. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK.
-2. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK, with charred plant remains and/or radiocarbon dates, and save them in a CSV file.
+EW1. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK.
+EW2. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK, with charred plant remains and/or radiocarbon dates, and save them in a CSV file.

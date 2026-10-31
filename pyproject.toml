@@ -4,6 +4,6 @@ version = "0.1.0"
 description = "OpenCode configuration for agentic archaeological research"
 requires-python = ">=3.11"
 dependencies = [
-  # ariadnesearch-cli, pinned to main@9fefa15 (upstream has no release tags yet)
-  "ariadnesearch-cli @ git+https://github.com/jfpalomeque/ariadnesearch-cli.git@9fefa1533a7008811a942d9b57cd3d906b021f0e",
+  # ariadnesearch-cli, pinned to main@c0b2593
+  "ariadnesearch-cli @ git+https://github.com/jfpalomeque/ariadnesearch-cli.git@c0b2593c494fafe5d5a5404822e36f7ef9349d41",
 ]

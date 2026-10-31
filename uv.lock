@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "ariadnesearch-cli", git = "https://github.com/jfpalomeque/ariadnesearch-cli.git?rev=9fefa1533a7008811a942d9b57cd3d906b021f0e" }]
+requires-dist = [{ name = "ariadnesearch-cli", git = "https://github.com/jfpalomeque/ariadnesearch-cli.git?rev=c0b2593c494fafe5d5a5404822e36f7ef9349d41" }]
 
 [[package]]
 name = "annotated-types"
@@ -38,7 +38,7 @@ wheels = [
 [[package]]
 name = "ariadnesearch-cli"
 version = "0.1.0"
-source = { git = "https://github.com/jfpalomeque/ariadnesearch-cli.git?rev=9fefa1533a7008811a942d9b57cd3d906b021f0e#9fefa1533a7008811a942d9b57cd3d906b021f0e" }
+source = { git = "https://github.com/jfpalomeque/ariadnesearch-cli.git?rev=c0b2593c494fafe5d5a5404822e36f7ef9349d41#c0b2593c494fafe5d5a5404822e36f7ef9349d41" }
 dependencies = [
     { name = "httpx" },
     { name = "pydantic" },
