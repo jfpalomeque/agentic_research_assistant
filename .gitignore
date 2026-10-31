@@ -1,2 +1,12 @@
 # Maintainer-only notes; not part of the distributed template
 .maintainers/
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Research output belongs to the user, not the template
+research/*
+!research/.gitkeep
