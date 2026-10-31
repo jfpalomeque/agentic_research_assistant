@@ -19,3 +19,4 @@ Install these before using the repository:
 
 EW1. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK.
 EW2. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK, with charred plant remains and/or radiocarbon dates, and save them in a CSV file.
+EW3. Find the underlying report for the Echline Fields ARIADNE record. If accessible, check its evidence for charred plant remains and cite the relevant pages. If not, explain what the catalogue says and why the claim remains unverified.

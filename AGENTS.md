@@ -23,6 +23,7 @@ Requires `pyproject.toml`; if it is absent, the toolchain has not been set up ye
 - Keep research files in `research/`. Ask before writing outside it.
 - Preserve original inputs. Write derived data separately, and ask before deleting or overwriting files.
 - Cite sources in notes and outputs; distinguish retrieved evidence from interpretation.
+- When a source link is unavailable, a publicly accessible archived copy, such as one in the Internet Archive's Wayback Machine, may be worth checking. Past tasks have successfully used this approach for an ADS document. Availability is not guaranteed; cite the archived version and capture date, and respect access restrictions and copyright.
 - ARIADNE catalogue metadata describes records about resources, not direct archaeological observations.
 - For questions linking a site or resource to a period and specific evidence, treat search hits as candidates: check whether the available source actually connects the evidence to the requested site, period and context. A keyword match alone does not establish that relationship.
 - Distinguish explicitly supported relationships from possible matches requiring source review, and exclude or explain matches where the evidence belongs to a different context. State when underlying reports have not been checked and when search terms or metadata may miss relevant evidence.
@@ -38,6 +39,7 @@ Requires `pyproject.toml`; if it is absent, the toolchain has not been set up ye
 
 - For underspecified requests, identify consequential choices and explain their implications in plain language. Ask the user when a choice would materially affect the scope, method, interpretation or output. Make reasonable, reversible assumptions for minor details and state them.
 - Discuss choices as evidence becomes available; do not require the user to settle every technical detail before the investigation begins.
+- When you discover a useful shortcut or innovative method during a task, explain it and ask whether the user wants it documented for future workflows. Verify the method and its limitations before documenting it as reliable.
 - When a tool cannot implement the requested method exactly, explain the limitation and proposed approximation. Ask the user whether it is acceptable or whether they need a more precise method, except for the default rectangular spatial approximation below.
 - For ARIADNE radius queries, default to a bounding rectangle around a stated reference point and explain that results may fall outside the requested radius. Apply a precise distance filter if the user requests one; do not present rectangle matches as confirmed within the radius.
 - Keep intermediate data, retrieved responses and working notes in a uniquely named per-investigation folder under `research/temp/`.
