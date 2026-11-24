@@ -62,6 +62,30 @@ See the printable [demo guide](DEMO.md) for copy-and-paste prompts, expected out
 - EW15. Produce a combined specialist finds study with separate pottery and lithic sections. Summarise pottery by date, fabric, form, condition and EVE, and lithics by raw material, type, technology, cortex, rolling, breakage and burning. Relate both assemblages to contexts and areas, identify the contexts driving each category, and assess preservation and collection limitations. Flag undefined fabrics, inconsistent condition codes and unsupported phase abbreviations rather than re-identifying or rephasing material. Save the methodology, findings, source references and limitations as a Markdown report in `research/`.
 - EW16. Inspect the CSVs in `demo_files/archaeological_site_files/` and explain what research questions and workflows they can support. Summarise each file's contents, key fields, join relationships, coverage and data-quality limitations. Suggest concrete follow-up prompts grouped by theme, stating the required files, expected output and any additional data needed. Distinguish questions answerable from the supplied data from those requiring assumptions or external evidence. Save the capability guide as a Markdown report in `research/`.
 
+## Resetting the conference demo
+
+The demonstration computer is already configured with OpenCode, its web interface, the required dependencies, and a dedicated event API key. Volunteers do not need to reinstall anything.
+
+Before the event, test the setup and create a **local** baseline tag in the demo repository:
+
+```bash
+git tag demo-ready
+```
+
+Once a visitor has finished, open a terminal **in the ARA repository root** and run:
+
+```bash
+git reset --hard demo-ready
+git clean -fdX -- research/
+```
+
+- `git reset --hard demo-ready` restores tracked project files to the tested baseline and discards changes made to them.
+- `git clean -fdX -- research/` deletes ignored research outputs and temporary files under `research/`. Original demonstration inputs in `demo_files/` and the installed environment are retained.
+- These commands **do not clear OpenCode conversation history** or untracked files outside `research/`. Start a new chat for the next visitor; handle old demonstration sessions separately if needed.
+- Refresh the OpenCode web page if the file explorer still shows old files or does not show newly generated ones.
+
+**Warning:** The reset permanently discards local changes to tracked files and ignored files in `research/`. Only run it when the previous visitor has finished. The `demo-ready` tag must already exist on that computer. Event API credentials should remain outside tracked files and must be revoked after the event.
+
 ## Writing research outputs
 
 Use OpenCode's dedicated file-editing tools when creating or updating reports, notes, CSV files, and other repository artefacts. Do not use long shell commands to construct file contents when a dedicated editing tool is available: shell safety checks may reject complex commands, leaving the intended output unwritten. Use the terminal for standalone research tools and data-processing commands where it is the appropriate interface.
