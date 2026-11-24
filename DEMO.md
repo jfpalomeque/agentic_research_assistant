@@ -1,69 +1,100 @@
-# Try the Agentic Research Assistant
+# Agentic Research Assistant
 
-An AI research assistant for archaeology. It can read excavation reports, explore site datasets, combine evidence across files and produce traceable research notes.
+*An experimental research environment for archaeology*
 
-**You do not need to know anything about AI agents.** Open this project in OpenCode, type a question in ordinary language and ask follow-up questions.
+**Ask research questions. Explore archaeological evidence. Follow the sources.**
 
-## Start here
+## What is ARA?
 
-1. Open the project in OpenCode from this folder.
-2. Copy one of the questions below into the chat.
-3. Ask a follow-up such as “Show me the sources” or “What can’t you conclude?”
+The Agentic Research Assistant (ARA) is an experimental environment built around OpenCode, specialist research tools, project instructions and archaeological data. It can gather information from traceable sources, work across different files and services, and produce research outputs that can be checked.
 
-You do not need to mention an **EW number**; those are simply examples in the [full workflow catalogue](README.md#example-workflows).
+It is not a purpose-built archaeology chatbot with a fixed list of commands. Ask questions in ordinary language, then explore where the investigation leads.
 
-## Four questions to try
+## What can it do?
 
-### 1. Explore the archaeological site files — EW16
+- **Discover archaeological records:** Search catalogues such as ARIADNE and investigate associated sources.
+- **Explore academic literature:** Find publications, DOIs, citations and reference lists.
+- **Read excavation reports:** Compare evidence, find relevant passages and cite pages.
+- **Analyse archaeological data:** Join records, check inconsistencies and summarise finds.
+- **Carry out research workflows:** Combine tools, follow leads and save reports or datasets.
 
-> I have archaeological data in this project. What can you help me investigate? First, explain what files are available, what each can support, and suggest three possible next questions. State any important limitations in plain language.
+## Try it on this computer
 
-**What it shows:** how the assistant understands a dataset before analysing it.
+OpenCode is already running in the browser. No installation or login is needed.
 
-### 2. Create a whole-site finds report — EW11
+1. **Ask:** Enter a question in the chat. Choose an example from page 2 or ask your own.
+2. **Explore:** Read the response and use the OpenCode file explorer to inspect source files and results. Demonstration inputs are in `demo_files/`; research outputs are normally saved in `research/`.
+3. **Continue:** Ask for evidence, refine the question or request a table, CSV or report.
 
-> Using the archaeological site files, create a preliminary finds report for the whole site. Join the finds to their contexts, summarise the pottery, lithics and other material, and flag missing information or uncertain dates. Save the report as Markdown.
+**Can't see a newly created file?** OpenCode's file explorer sometimes does not update immediately. Refresh the browser page.
 
-**What it shows:** multi-file analysis, synthesis and a usable research output.
+## Investigate, don't just ask
 
-### 3. Check the dataset for problems — EW12
+Try a short sequence of follow-up questions:
 
-> Audit the archaeological site files for duplicate records, unmatched contexts, undefined codes, missing units and inconsistent periods. Show the source rows and recommend what should be checked. Do not change the original files.
+> What can you tell me about the archaeological files in this project?
 
-**What it shows:** critical checking rather than simply accepting the data.
+> Which records might need closer checking?
 
-### 4. Compare two excavation reports — EW9
+> Show me the source rows behind those findings.
 
-> Compare the evidence for Neolithic crop cultivation at Meadowend Farm and Kinbeachie. Distinguish observed plant remains from the authors’ interpretation, do not treat charcoal alone as crop evidence, and cite the relevant pages.
+> Can you save a short report without changing the original data?
 
-**What it shows:** document reading, evidence comparison and page-level citation.
+## Check the evidence
 
-## What you should expect
+ARA is experimental and can make mistakes. A catalogue search result is not itself proof of an archaeological claim. Check source rows and report pages, distinguish observations from interpretations, and ask what remains uncertain or missing.
 
-- Answers grounded in the supplied files.
-- Clear separation between **observed evidence** and **interpretation**.
-- Source rows or report pages so claims can be checked.
-- Honest statements about missing units, uncertain dates and incomplete coverage.
-- Markdown reports saved in `research/`.
+## Take ARA home
 
-## Useful follow-up questions
+Repository, example workflows and installation instructions:
 
-- “Show me the source rows behind that conclusion.”
-- “Which findings are uncertain, and why?”
-- “Turn the findings into a comparison table.”
-- “What can’t you answer from these files?”
-- “Give me the three contexts that need priority review.”
+**[github.com/jfpalomeque/agentic_research_assistant](https://github.com/jfpalomeque/agentic_research_assistant)**
 
-## Suggested demo routes
+<!-- PRINT PAGE BREAK: the remaining sections are page 2 of the visitor handout. -->
 
-| Time available | Route |
-|---|---|
-| 5 minutes | EW16, then ask for a data-quality audit. |
-| 10 minutes | EW11, then ask for the contexts requiring priority review. |
-| Report-reading demo | EW9, then ask the assistant to defend one conclusion using its cited pages. |
+# What can you ask ARA?
 
-## Important limits
+These **example workflows (EWs)** are starting points, not fixed commands. Enter a question in the OpenCode chat, adapt an example or invent your own. Some searches need an internet connection; local datasets and reports are already supplied.
 
-The supplied CSVs are a **demo subset**, not the complete excavation archive. Weight units, sampling information and spatial coordinates are not available, so the assistant should not invent them or present absolute totals as precise activity measures. Demonstrating these limits is part of a responsible research workflow.
+### ARIADNE: Archaeological records
 
-See [README.md](README.md#example-workflows) for all EW1–EW16 examples.
+- **EW1.** Find Neolithic sites within 50 km of York.
+- **EW2.** Find Neolithic sites near York with charred plant remains and/or radiocarbon dates. Save a CSV.
+- **EW3.** Find the underlying report for Echline Fields and check its evidence for charred plant remains.
+- **EW8.** Find Late Neolithic ARIADNE records in Scotland and summarise their geographical distribution.
+
+### Academic literature
+
+- **EW4.** Retrieve bibliographic details for DOI `10.1017/S0003598X00047864`.
+- **EW5.** Find Enrico Crema's 2022 paper about SPDs.
+- **EW6.** Find publications citing Stevens and Fuller (2012), and export BibTeX.
+- **EW7.** Find publications referenced by Stevens and Fuller (2012), and export BibTeX.
+
+### Excavation reports
+
+- **EW9.** Compare evidence for Neolithic crop cultivation at Meadowend Farm and Kinbeachie. Cite report pages and distinguish observations from interpretation.
+
+### Archaeological datasets
+
+- **EW10.** Combine finds and contexts to investigate iron, slag, industrial waste and building material by area, period and feature.
+- **EW11.** Produce a preliminary finds report using the context, pottery, lithic and other finds registers.
+- **EW12.** Audit the site files for duplicates, unmatched contexts, undefined codes, missing units and inconsistent periods.
+- **EW13.** Reconstruct recorded cut-and-fill relationships and flag missing links.
+- **EW14.** Build a source-linked evidence dossier for selected archaeological contexts.
+- **EW15.** Produce a specialist study of pottery and lithic assemblages.
+- **EW16.** Explore the supplied CSVs and suggest research questions they could answer.
+
+## Other questions to try
+
+- What are the strongest and weakest conclusions supported by these files?
+- Can you check whether a claim is supported by the original excavation report?
+- What information is missing, and what would we need to investigate next?
+- Can you compare information from two sources and explain any disagreement?
+- Which records should an archaeologist review first?
+- Can you investigate a related question using more than one tool?
+
+## Useful follow-ups
+
+**"Show me the source rows or report pages."** · **"What assumptions did you make?"** · **"Can you try another approach?"** · **"Save the methodology and results."**
+
+*The supplied site registers are a demonstration subset, not the complete excavation archive. Treat results as provisional and check their sources.*
