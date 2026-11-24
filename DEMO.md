@@ -54,7 +54,9 @@ Repository, example workflows and installation instructions:
 
 # What can you ask ARA?
 
-These **example workflows (EWs)** are starting points, not fixed commands. Enter a question in the OpenCode chat, adapt an example or invent your own. Some searches need an internet connection; local datasets and reports are already supplied.
+All 16 **example workflows (EWs)** are described in full in [README.md](README.md#example-workflows), which ARA can consult. You can copy and paste a complete prompt from there, or simply ask **"Run EW12 from README.md"** (or any other EW number). There is no need to type out the full instruction.
+
+The short descriptions below are a menu of ideas, not fixed commands. You can also ask your own question. Some searches need an internet connection; local datasets and reports are already supplied.
 
 ### ARIADNE: Archaeological records
 
