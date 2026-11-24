@@ -32,6 +32,17 @@ Install these before using the repository:
 
 - [`ariadnesearch-cli`](https://github.com/jfpalomeque/ariadnesearch-cli) and its dependencies.
 
+## Start a demo
+
+New to AI agents? Open this project in OpenCode and ask a question in ordinary language. For example:
+
+- “What can I do with the archaeological site files?”
+- “Create a preliminary finds report for this site.”
+- “Check this dataset for errors or missing information.”
+- “Compare the Neolithic crop evidence in the two excavation reports.”
+
+See the printable [demo guide](DEMO.md) for copy-and-paste prompts, expected outputs and suggested demo routes.
+
 ## Example workflows
 
 - EW1. Find, in ARIADNE, Neolithic sites 50 km around the city of York, UK.

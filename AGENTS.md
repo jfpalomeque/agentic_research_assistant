@@ -35,6 +35,14 @@ Requires `pyproject.toml`; if it is absent, the toolchain has not been set up ye
 - Semantic tool selection (choosing a tool from a natural-language request) is not semantic retrieval; do not describe keyword search as semantic search.
 - Keep credentials out of the repo. ARIADNE and Zotero are optional; core workflows must work without authenticated services.
 
+## Demo interaction
+
+- Treat `DEMO.md` as the visitor-facing starting point and `README.md` as the complete EW catalogue.
+- When a visitor asks an open-ended question about the available files, identify the relevant dataset or reports, explain useful next steps in plain language, and offer three to five concrete starter questions.
+- Do not require visitors to know workflow IDs. Mention a relevant EW only as an optional example.
+- Prefer the supplied local demo files so demonstrations do not depend on live external services.
+- Preserve the project’s evidence standards: cite source rows or pages, distinguish observations from interpretation, and state limitations rather than filling gaps with assumptions.
+
 ## Open-ended research workflows
 
 - For underspecified requests, identify consequential choices and explain their implications in plain language. Ask the user when a choice would materially affect the scope, method, interpretation or output. Make reasonable, reversible assumptions for minor details and state them.
