@@ -1,0 +1,1425 @@
+?Context,Ctx_type,Fill_of,Ctx_Description,Set_no,Group_no,Feature_type,Prov_Period,Pub_period,Feature_label,Sample no(s),Reason_for _sampling,Area/site_code
+1000,layer,,Topsoil,,,Topsoil,Modern,,,,,1
+1001,layer,,Subsoil,,,Subsoil,3,3,,,,1
+1002,layer,,Natural geological substrate,,,Natural soil,,,,,,1
+1003,cut,,NW-SE aligned ditch,,,Ditch/other linear,3,3,,,,1
+1004,fill,1003,NW-SE aligned ditch,,,Ditch/other linear,3,3,,,,1
+1005,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1006,fill,1005,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1007,cut,,NE-SW aligned ditch,,,Furrow,3,3,,,,1
+1008,fill,1007,NE-SW aligned ditch,,,Furrow,3,3,,,,1
+1009,layer,,Natural flood layer,,,Natural soil,0,0,,,,1
+1010,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1011,fill,1010,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1012,fill,1010,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1013,deposit,,Bioturbation,,,Tree hole/bowl,0,0,,,,1
+1014,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1015,fill,1014,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1016,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1017,fill,1016,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1018,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1019,fill,1018,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1020,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1021,fill,1020,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1022,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1023,fill,1022,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1024,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1025,fill,1024,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1026,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1027,fill,1026,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1028,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1029,fill,1028,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1030,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1031,fill,1031,NW-SE aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1032,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1033,fill,1032,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1034,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1035,fill,1034,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1036,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1037,fill,1036,NE-SW aligned ditch,,,Furrow,3,3,,,,1
+1038,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1039,fill,1038,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1040,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1041,fill,1040,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1042,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1043,fill,1042,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1044,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1045,fill,1044,NE-SW aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1046,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1047,fill,1046,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1048,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1049,fill,1048,NE-SW aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1050,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1051,fill,1050,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1052,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1053,fill,1052,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1054,cut,,NW-SE aligned ditch,,,Tree hole/bowl,,,,,,1
+1055,fill,1054,NW-SE aligned ditch,,,Tree hole/bowl,,,,,,1
+1056,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1057,fill,1056,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1058,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1059,fill,1058,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1060,layer,,Subsoil in natural hollow,,,Natural soil,3,3,,,,1
+1061,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1062,fill,1061,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1063,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1064,fill,1063,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1065,cut,,Pit,,,Pit,0,0,,,,1
+1066,fill,1065,Pit,,,Pit,0,0,,,,1
+1067,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1068,fill,1067,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1069,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1070,fill,1069,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1071,fill,1069,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1072,cut,,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1073,fill,1072,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1074,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1075,fill,1074,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1076,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1077,fill,1076,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1078,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1079,fill,1078,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1080,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1081,fill,1080,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1082,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1083,fill,1082,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1084,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1085,fill,1084,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1086,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1087,fill,1086,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1088,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1089,fill,1088,N-S aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1090,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1091,fill,1090,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1092,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1093,fill,1092,E-W aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1096,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1097,fill,1096,N-S aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1098,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1099,fill,1098,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1100,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1101,fill,1100,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1102,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1103,fill,1102,N-S aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1104,cut,,Tree bowl,,,Tree hole/bowl,0,0,,,,1
+1105,fill,1104,Tree bowl,,,Tree hole/bowl,0,0,,,,1
+1106,cut,,Tree bowl,,,Tree hole/bowl,0,0,,,,1
+1107,fill,1106,Tree bowl,,,Tree hole/bowl,0,0,,,,1
+1108,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1109,fill,1108,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1110,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,1P,,,1
+1111,fill,1110,E-W aligned ditch,,,Ditch/other linear,0,0,1P,,,1
+1112,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,1P,,,1
+1113,fill,1112,E-W aligned ditch,,,Ditch/other linear,0,0,1P,,,1
+1114,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1115,fill,1114,NE-SW aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1116,cut,,Tree bole,,,Pit,0,0,,,,1
+1117,fill,1116,Tree bole,,,Pit,0,0,,,,1
+1118,cut,,N-S aligned ditch,,,Ditch/other linear,,,1O,,,1
+1119,fill,1118,N-S aligned ditch,,,Ditch/other linear,,,1O,,,1
+1120,cut,,Pit,,,Ditch/other linear,1,1,1A,,,1
+1121,fill,1120,Pit,,,Ditch/other linear,1,1,1A,,,1
+1122,fill,1120,N-S aligned ditch,,,Ditch/other linear,1,1,1A,,,1
+1123,fill,1120,N-S aligned ditch,,,Ditch/other linear,1,1,1A,,,1
+1124,cut,,Pit,,,Pit,0,0,,,,1
+1125,fill,1124,Pit,,,Ditch/other linear,0,0,,,,1
+1126,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1127,fill,1126,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1128,cut,,Pit,,,Pit,0,0,,,,1
+1129,fill,1128,Pit,,,Pit,0,0,,,,1
+1130,cut,,Pit,,,Pit,1,1,1A,,,1
+1131,fill,1130,Pit,,,Pit,1,1,1A,,,1
+1132,fill,1130,Pit,,,Pit,1,1,1A,,,1
+1133,fill,1130,Pit,,,Pit,1,1,1A,,,1
+1134,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1135,fill,1134,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1136,fill,1146,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1137,cut,,Tree bole,,,Tree hole/bowl,,,,,,1
+1138,fill,1137,Tree bole,,,Tree hole/bowl,,,,,,1
+1139,fill,1137,Tree bole,,,Tree hole/bowl,,,,,,1
+1140,fill,1137,Tree bole,,,Tree hole/bowl,,,,,,1
+1141,fill,1137,Tree bole,,,Tree hole/bowl,,,,,,1
+1142,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1143,fill,1142,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1144,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1145,fill,1144,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1146,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1147,cut,,Tree bole,,,Tree hole/bowl,,,,,,1
+1148,fill,1147,Tree bole,,,Tree hole/bowl,,,,,,1
+1149,cut,,Pit,,,Pit,1,1,1A,,,1
+1150,fill,1149,Pit,,,Pit,1,1,1A,,,1
+1151,cut,,Pit,,,Pit,1,1,1A,,,1
+1152,fill,1151,Pit,,,Pit,1,1,1A,,,1
+1153,fill,1151,Pit,,,Pit,1,1,1A,,,1
+1154,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1155,fill,1154,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1156,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1157,fill,1156,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1158,cut,,NW-Se aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1159,fill,1158,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1160,cut,,Pit,,,Pit,1,1,1A,,,1
+1161,fill,1160,Pit,,,Pit,1,1,1A,,,1
+1162,fill,1160,Pit,,,Pit,1,1,1A,,,1
+1163,cut,,NW-SE aligned ditch,,,Ditch/other linear,,,,,,1
+1164,fill,1163,NW-SE aligned ditch,,,Ditch/other linear,,,,,,1
+1165,cut,,Pit,,,Pit,1,1,1A,,,1
+1166,fill,1165,Pit,,,Pit,1,1,1A,,,1
+1167,fill,1165,Pit,,,Pit,1,1,1A,,,1
+1168,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1169,fill,1168,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1170,cut,,Pit,,,Pit,1,1,1A,,,1
+1171,fill,1170,Pit,,,Pit,1,1,1A,,,1
+1172,fill,1170,Pit,,,Pit,1,1,1A,,,1
+1173,fill,1170,Pit,,,Pit,1,1,1A,,,1
+1174,fill,1170,Pit,,,Pit,1,1,1A,,,1
+1175,cut,,Pit,,,Pit,1,1,1A,,,1
+1176,fill,1175,Pit,,,Pit,1,1,1A,,,1
+1177,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1178,fill,1177,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1179,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1180,fill,1179,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1181,cut,,Pit,,,Pit,1,1,1A,,,1
+1182,fill,1181,Pit,,,Pit,1,1,1A,,,1
+1183,fill,1181,Pit,,,Pit,1,1,1A,,,1
+1184,cut,,Pit,,,Pit,1,1,1A,,,1
+1185,fill,1184,Pit,,,Pit,1,1,1A,,,1
+1186,fill,1175,Pit,,,Pit,1,1,1A,,,1
+1187,fill,1175,Pit,,,Pit,1,1,1A,,,1
+1188,fill,1175,Pit,,,Pit,1,1,1A,,,1
+1189,fill,1175,Pit,,,Pit,1,1,1A,,,1
+1190,fill,1184,Pit,,,Pit,1,1,1A,,,1
+1191,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,1
+1192,fill,1191,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,1
+1193,fill,1191,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,1
+1194,cut,,NE-SW aligned ditch,,,Ditch/other linear,,,1H,,,1
+1195,fill,1194,NE-SW aligned ditch,,,Ditch/other linear,,,1H,,,1
+1196,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1197,fill,1196,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1198,cut,,Pit,,,Pit,1,1,1A,,,1
+1199,fill,1198,Pit,,,Pit,1,1,1A,,,1
+1200,fill,1198,Pit,,,Pit,1,1,1A,,,1
+1201,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1202,fill,1201,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1203,cut,,NE-SW aligned ditch,,,Ditch/other linear,,2,1H,,,1
+1204,fill,1023,NE-SW aligned ditch,,,Ditch/other linear,,2,1H,,,1
+1205,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1206,fill,1205,NE-SW aligned ditch,,,Ditch/other linear,2,2,1H,,,1
+1207,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1208,fill,1207,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1209,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1210,fill,1209,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1211,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1212,fill,1211,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1213,cut,,NW-SE aligned ditch,,,Ditch/other linear,,,1J,,,1
+1214,fill,1213,NW-SE aligned ditch,,,Ditch/other linear,,,1J,,,1
+1215,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1216,fill,1215,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1217,cut,,Pit,,,Pit,1,1,1A,,,1
+1218,fill,1217,Pit,,,Pit,1,1,1A,,,1
+1219,fill,1217,Pit,,,Pit,1,1,1A,,,1
+1220,fill,1217,Pit,,,Pit,1,1,1A,,,1
+1221,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1222,fill,1221,NW-SE aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1223,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1224,fill,1223,NW-SE aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1225,cut,,Pit,,,Pit,1,1,1A,,,1
+1226,fill,1225,Pit,,,Pit,1,1,1A,,,1
+1227,fill,1225,Pit,,,Pit,1,1,1A,,,1
+1228,cut,,Pit,,,Pit,1,1,1A,,,1
+1229,fill,1228,Pit,,,Pit,1,1,1A,,,1
+1230,fill,1228,Pit,,,Pit,1,1,1A,,,1
+1231,cut,,Pit,,,Pit,1,1,1A,,,1
+1232,fill,1231,Pit,,,Pit,1,1,1A,,,1
+1233,fill,1231,Pit,,,Pit,1,1,1A,,,1
+1234,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1235,fill,1233,NE-SW aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1236,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1237,fill,1236,NE-SW aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1238,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1239,fill,1238,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1240,cut,,Pit,,,Pit,1,1,1A,,,1
+1241,fill,1240,Pit,,,Pit,1,1,1A,,,1
+1242,fill,1240,Pit,,,Pit,1,1,1A,,,1
+1243,fill,1240,Pit,,,Pit,1,1,1A,,,1
+1244,cut,,Pit,,,Pit,1,1,1A,,,1
+1245,fill,1244,Pit,,,Pit,1,1,1A,,,1
+1246,cut,,N-S aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1247,fill,1246,N-S aligned ditch,,,Ditch/other linear,0,0,1J,,,1
+1248,cut,,N-S aligned ditch,,,Ditch/other linear,,,1O,,,1
+1249,fill,1248,N-S aligned ditch,,,Ditch/other linear,,,1O,,,1
+1250,cut,,Pit,,,Pit,1,1,1A,,,1
+1251,fill,1250,Pit,,,Pit,1,1,1A,,,1
+1252,fill,1250,Pit,,,Pit,1,1,1A,,,1
+1253,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1254,fill,1253,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1255,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1256,fill,1255,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1257,cut,,Pit,,,Pit,1,1,1A,,,1
+1258,fill,1257,Pit,,,Pit,1,1,1A,,,1
+1259,fill,1257,Pit,,,Pit,1,1,1A,,,1
+1260,fill,1257,Pit,,,Pit,1,1,1A,,,1
+1261,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1262,fill,1261,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1263,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1264,fill,1263,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1265,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1266,fill,1265,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1267,cut,,Pit,,,Pit,1,1,1A,,,1
+1268,fill,1267,Pit,,,Pit,1,1,1A,,,1
+1269,cut,,Pit,,,Pit,1,1,1A,,,1
+1270,fill,1269,Pit,,,Pit,1,1,1A,,,1
+1271,fill,1269,Pit,,,Pit,1,1,1A,,,1
+1272,fill,1269,Pit,,,Pit,1,1,1A,,,1
+1273,fill,1269,Pit,,,Pit,1,1,1A,,,1
+1274,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1275,fill,1274,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1276,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1277,fill,1276,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1278,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1279,fill,1278,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1280,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1281,fill,1280,NE-SW aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1282,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1283,fill,1282,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1284,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1285,fill,1284,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1286,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1287,fill,1286,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1288,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1289,fill,1288,NW-SE aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1290,cut,,Pit,,,Pit,1,1,1A,,,1
+1291,fill,1290,Pit,,,Pit,1,1,1A,,,1
+1292,fill,1290,Pit,,,Pit,1,1,1A,,,1
+1293,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1294,fill,1293,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1295,cut,,Pit,,,Pit,1,1,1A,,,1
+1296,fill,1295,Pit,,,Pit,1,1,1A,,,1
+1297,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1298,fill,1297,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1299,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1300,fill,1299,E-W aligned ditch,,,Ditch/other linear,2,2,1B,,,1
+1301,cut,,NW-SE aligned furrow,,,Ditch/other linear,,,1B,,,1
+1302,fill,1301,NW-SE aligned furrow,,,Ditch/other linear,,,1B,,,1
+1303,cut,,Pit,,,Pit,1,1,1A,,,1
+1304,fill,1303,Pit,,,Pit,1,1,1A,,,1
+1305,fill,1303,Pit,,,Pit,1,1,1A,,,1
+1306,fill,1303,Pit,,,Pit,1,1,1A,,,1
+1307,fill,1303,Pit,,,Pit,1,1,1A,,,1
+1308,fill,1290,Pit,,,Pit,1,1,1A,,,1
+1309,fill,1290,Pit,,,Pit,1,1,1A,,,1
+1310,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1311,fill,1310,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1312,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1313,fill,1312,NW-SE aligned ditch,,,Ditch/other linear,2,2,1C,,,1
+1314,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1315,fill,1314,NW-SE aligned ditch,,,Ditch/other linear,0,0,1D,,,1
+1316,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1317,fill,1316,NE-SW aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1318,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1319,fill,1318,NE-SW aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1320,cut,,Pit,,,Pit,1,1,1A,,,1
+1321,fill,1320,Pit,,,Pit,1,1,1A,,,1
+1322,fill,1320,Pit,,,Pit,1,1,1A,,,1
+1323,fill,1320,Pit,,,Pit,1,1,1A,,,1
+1324,fill,1320,Pit,,,Pit,1,1,1A,,,1
+1325,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1326,fill,1325,NW-SW aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1327,cut,,Pit,,,Pit,1,1,,,,1
+1328,fill,1327,Pit,,,Pit,1,1,,,,1
+1329,cut,,Pit,,,Pit,1,1,1A,,,1
+1330,fill,1329,Pit,,,Pit,1,1,1A,,,1
+1331,fill,1329,Pit,,,Pit,1,1,1A,,,1
+1332,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1333,fill,1332,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1334,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1335,fill,1334,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1336,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1337,fill,1336,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1338,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1339,fill,1338,NW-SE aligned ditch,,,Ditch/other linear,2,2,1Q,,,1
+1340,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1341,fill,1340,NE-SW aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1342,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,1
+1343,fill,1342,Tree bole,,,Tree hole/bowl,2,2,,,,1
+1344,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1345,fill,1344,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1346,cut,,Pit,,,Pit,1,1,1A,,,1
+1347,fill,1346,Pit,,,Pit,1,1,1A,,,1
+1348,fill,1346,Pit,,,Pit,1,1,1A,,,1
+1349,fill,1346,Pit,,,Pit,1,1,1A,,,1
+1350,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1351,fill,1350,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1352,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1353,fill,1352,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1354,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1355,fill,1354,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1356,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1357,fill,1356,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1358,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1359,fill,1358,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1360,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1361,fill,1360,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1362,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1363,fill,1362,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1364,cut,,Pit,,,Pit,1,1,1A,,,1
+1365,fill,1364,Pit,,,Pit,1,1,1A,,,1
+1366,fill,1364,Pit,,,Pit,1,1,1A,,,1
+1367,fill,1364,Pit,,,Pit,1,1,1A,,,1
+1368,cut,,Pit,,,Pit,1,1,1A,,,1
+1369,fill,1368,Pit,,,Pit,1,1,1A,,,1
+1370,fill,1368,Pit,,,Pit,1,1,1A,,,1
+1371,fill,1368,Pit,,,Pit,1,1,1A,,,1
+1372,cut,,Pit,,,Pit,1,1,1A,,,1
+1373,fill,1372,Pit,,,Pit,1,1,1A,,,1
+1374,fill,1372,Pit,,,Pit,1,1,1A,,,1
+1375,cut,,Pit,,,Pit,1,1,1A,,,1
+1376,fill,1375,Pit,,,Pit,1,1,1A,,,1
+1377,fill,1375,Pit,,,Pit,1,1,1A,,,1
+1378,fill,1375,Pit,,,Pit,1,1,1A,,,1
+1379,fill,1375,Pit,,,Pit,1,1,1A,,,1
+1380,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1381,fill,1380,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1382,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1383,fill,1382,N-S aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1384,cut,,NW-SE aligned gully,,,Ditch/other linear,,,1R,,,1
+1385,fill,1384,NW-SE aligned gully,,,Ditch/other linear,,,1R,,,1
+1386,cut,,E-W aligned furrow,,,Furrow,3,3,,,,1
+1387,fill,1386,E-W aligned ditch,,,Furrow,3,3,,,,1
+1388,cut,,NW-SE aligned ditch,,,Furrow,2,2,1O,,,1
+1389,fill,1388,NW-SE aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1390,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1391,fill,1390,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1392,cut,,NW-SE aligned gully,,,Ditch/other linear,2,2,1R,,,1
+1393,fill,1392,NW-SE aligned gully,,,Ditch/other linear,2,2,1R,,,1
+1394,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1395,fill,1394,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1396,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1397,fill,1396,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1398,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1399,fill,1398,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1400,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1401,fill,1400,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1402,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1403,fill,1402,NW-SE aligned ditch,,,Ditch/other linear,0,0,1K,,,1
+1404,cut,,Pit,,,Pit,1,1,1A,,,1
+1405,fill,1404,Pit,,,Pit,1,1,1A,,,1
+1406,fill,1404,Pit,,,Pit,1,1,1A,,,1
+1407,fill,1404,Pit,,,Pit,1,1,1A,,,1
+1408,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1409,fill,1408,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1410,cut,,NW-SE aligned ditch,,,Ditch/other linear,,,,,,1
+1411,fill,1410,NW-SE aligned ditch,,,Ditch/other linear,,,,,,1
+1412,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1413,fill,1412,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1414,cut,,Pit,,,Pit,2,2,,,,1
+1415,fill,1414,Pit,,,Pit,2,2,,,,1
+1416,fill,1414,Pit,,,Pit,2,2,,,,1
+1417,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1418,fill,1417,NE-SW aligned ditch,,,Ditch/other linear,2,2,1M,,,1
+1419,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1420,fill,1419,NW-SE aligned ditch,,,Ditch/other linear,2,2,1E,,,1
+1421,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1422,fill,1421,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1423,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1424,fill,1423,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1425,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1426,fill,1425,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1427,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1428,fill,1427,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1429,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1430,fill,1429,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1431,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1432,fill,1431,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1433,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1434,fill,1433,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1435,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1436,fill,1435,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1437,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1438,fill,1437,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1439,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1440,fill,1439,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1441,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1442,fill,1441,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1443,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1444,fill,1443,NW-SE aligned ditch,,,Ditch/other linear,2,2,1F,,,1
+1445,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1446,fill,1445,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1447,cut,,Pit/cremation,,,Pit,0,2,,,,1
+1448,fill,1447,Pit/cremation,,,Pit,0,2,,,,1
+1449,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1450,fill,1449,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1451,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1452,fill,1451,N-S aligned ditch,,,Ditch/other linear,2,2,1O,,,1
+1453,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1454,fill,1453,NW-SE aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1455,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1456,fill,1455,NE-SW aligned ditch,,,Ditch/other linear,2,2,1I,,,1
+1457,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1458,fill,1457,NE-SW aligned ditch,,,Ditch/other linear,1,1,1G,,,1
+1459,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,1
+1460,fill,1459,NW-SE aligned furrow,,,Furrow,3,3,,,,1
+1461,cut,,Pit,,,Pit,0,0,,,,1
+1462,fill,1461,Pit,,,Pit,0,0,,,,1
+1463,fill,1461,Pit,,,Pit,0,0,,,,1
+1464,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1L,,,1
+1465,fill,1464,NW-SE aligned ditch,,,Ditch/other linear,0,0,1L,,,1
+1466,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1L,,,1
+1467,fill,1466,NW-SE aligned ditch,,,Ditch/other linear,0,0,1L,,,1
+1468,cut,,Pit,,,Pit,0,0,,,,1
+1469,fill,1468,Pit,,,Pit,0,0,,,,1
+1470,cut,,Pit,,,Pit,,,,,,1
+1471,fill,1470,Pit,,,Pit,,,,,,1
+1472,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1473,fill,1472,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1474,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1475,fill,1474,Tree bole,,,Tree hole/bowl,0,0,,,,1
+1476,cut,,Pit/posthole,,,Pit,0,0,,,,1
+1477,cut,,Pit,,,Pit,1,1,1A,,,1
+1478,fill,1477,Pit,,,Pit,1,1,1A,,,1
+1479,fill,1477,Pit,,,Pit,1,1,1A,,,1
+1480,cut,,Pit,,,Pit,1,1,1A,,,1
+1481,fill,1480,Pit,,,Pit,1,1,1A,,,1
+1482,fill,1476,Pit/posthole,,,Pit,0,0,,,,1
+1483,fill,1480,Pit,,,Pit,1,1,1A,,,1
+1484,fill,1480,Pit,,,Pit,1,1,1A,,,1
+1485,cut,,Pit,,,Pit,1,1,1A,,,1
+1486,fill,1485,Pit,,,Pit,1,1,1A,,,1
+1487,fill,1485,Pit,,,Pit,1,1,1A,,,1
+1488,fill,1485,Pit,,,Pit,1,1,1A,,,1
+1489,cut,,Pit,,,Pit,1,1,1A,,,1
+1490,fill,1489,Pit,,,Pit,1,1,1A,,,1
+1491,fill,1489,Pit,,,Pit,1,1,1A,,,1
+1492,fill,1489,Pit,,,Pit,1,1,1A,,,1
+1493,fill,1477,Pit,,,Pit,1,1,1A,,,1
+1494,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,1S,,,1
+1495,fill,1494,NW-SE aligned ditch,,,Ditch/other linear,0,0,1S,,,1
+1496,cut,,N-S aligned ditch,,,Ditch/other linear,0,0,1T,,,1
+1497,fill,1496,N-S aligned ditch,,,Ditch/other linear,0,0,1T,,,1
+1498,cut,,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1499,fill,1498,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1500,fill,1498,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1501,fill,1498,E-W aligned ditch,,,Ditch/other linear,,,1G,,,1
+1502,cut,,Pit,,,Pit,1,1,1A,,,1
+1503,fill,1502,Pit,,,Pit,1,1,1A,,,1
+1504,fill,1502,Pit,,,Pit,1,1,1A,,,1
+1505,fill,1502,Pit,,,Pit,1,1,1A,,,1
+1506,cut,,Pit,,,Pit,1,1,1A,,,1
+1507,fill,1506,Pit,,,Pit,1,1,1A,,,1
+1508,fill,1506,Pit,,,Pit,1,1,1A,,,1
+1509,cut,,Pit,,,Pit,1,1,1A,,,1
+1510,fill,1509,Pit,,,Pit,1,1,1A,,,1
+1511,fill,1509,Pit,,,Pit,1,1,1A,,,1
+1512,fill,1509,Pit,,,Pit,1,1,1A,,,1
+1513,cut,,Pit,,,Pit,1,1,1A,,,1
+1514,fill,1513,Pit,,,Pit,1,1,1A,,,1
+1515,fill,1513,Pit,,,Pit,1,1,1A,,,1
+1516,fill,1513,Pit,,,Pit,1,1,1A,,,1
+1517,fill,1513,Pit,,,Pit,1,1,1A,,,1
+1518,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1519,fill,1518,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1520,fill,1518,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1521,fill,1518,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1522,fill,1513,Pit,,,Pit,1,1,1A,,,1
+1523,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1524,fill,1523,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+1525,fill,1523,NE-SW aligned ditch,,,Ditch/other linear,2,2,1N,,,1
+3000,layer,,Topsoil,,,Topsoil,,,,,,3
+3001,layer,,Subsoil,,,Subsoil,,,,,,3
+3002,layer,,Natural geological substrate,,,Natural strata,,,,,,3
+3003,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3004,fill,3003,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3005,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3006,fill,3005,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3007,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3008,fill,3007,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3009,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3010,fill,3009,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3011,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3012,fill,3011,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3013,cut,,Pit,,,Pit,0,0,,,,3
+3014,fill,3013,Pit,,,Pit,0,0,,,,3
+3015,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3016,fill,3015,N-S aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3017,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3018,fill,3017,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3019,fill,3013,Pit,,,Pit,0,0,,,,3
+3020,cut,,Pit,,,Pit,0,0,,,,3
+3021,fill,3020,Pit,,,Pit,0,0,,,,3
+3022,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3023,fill,3022,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3024,fill,3026,Firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3025,fill,3020,Firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3026,cut,,Firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3027,fill,3026,Firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3028,masonry,3026,Stone lining of firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3029,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3030,fill,3029,NW-SE aligned ditch,,,Ditch/other linear,2,2,3A,,,3
+3031,fill,3026,Firepit,,,Furnace or other pyrotechnic instalation,0,0,,,,3
+3032,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,3C,,,3
+3033,fill,3032,E-W aligned ditch,,,Ditch/other linear,2,2,3C,,,3
+3034,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,3
+3035,fill,3035,Tree throw,,,Tree hole/bowl,0,0,,,,3
+3036,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3037,fill,3036,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3038,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3039,fill,3038,Tree bole,,,Tree hole/bowl,,,,,,3
+3040,fill,3038,Tree bole,,,Tree hole/bowl,,,,,,3
+3041,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3042,fill,3041,Tree bole,,,Tree hole/bowl,,,,,,3
+3043,fill,3041,Tree bole,,,Tree hole/bowl,,,,,,3
+3044,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,3C,,,3
+3045,fill,3044,E-W aligned ditch,,,Ditch/other linear,2,2,3C,,,3
+3046,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3047,fill,3046,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3048,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3049,fill,3048,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3050,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3051,fill,3050,Tree bole,,,Tree hole/bowl,,,,,,3
+3052,cut,,NE-SW aligned ditch,,,Ditch/other linear,,,3C,,,3
+3053,fill,3052,NE-SW aligned ditch,,,Ditch/other linear,,,3C,,,3
+3054,cut,,Pit,,,Pit,1,1,,,,3
+3055,fill,3054,Pit,,,Pit,1,1,,,,3
+3056,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3057,fill,3056,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3058,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3059,fill,3058,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3060,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3061,fill,3060,Tree bole,,,Tree hole/bowl,,,,,,3
+3062,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3063,fill,3062,Tree bole,,,Tree hole/bowl,,,,,,3
+3064,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3065,fill,3064,Tree bole,,,Tree hole/bowl,,,,,,3
+3066,cut,,Tree throw,,,Tree hole/bowl,,,,,,3
+3067,fill,3066,Tree throw,,,Tree hole/bowl,,,,,,3
+3068,cut,,Pit,,,Pit,,,,,,3
+3069,fill,3068,Pit,,,Pit,,,,,,3
+3070,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3071,fill,3070,NW-SE aligned ditch,,,Ditch/other linear,2,2,3B,,,3
+3072,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3073,fill,3072,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3074,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3075,fill,3074,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3076,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3077,fill,3076,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3078,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3079,fill,3078,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3080,cut,,Pit,,,Pit,0,0,,,,3
+3081,fill,3080,Pit,,,Pit,0,0,,,,3
+3082,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3083,fill,3082,NE-SW aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3084,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3085,fill,3084,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3086,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3087,fill,3086,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3088,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3089,fill,3088,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3090,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3091,fill,3090,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3092,cut,,Pit,,,Pit,0,0,,,,3
+3093,fill,3092,Pit,,,Pit,0,,,,,3
+3094,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3095,fill,3094,E-W aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3096,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3097,fill,3096,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3098,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3099,fill,3098,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3100,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3101,fill,3100,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3102,fill,3100,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3103,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3104,fill,3103,NE-SW aligned ditch,,,Ditch/other linear,2,2,3F,,,3
+3105,cut,,Erosion at junction of field boundaries,,,Erosion,,,,,,3
+3106,fill,3105,Erosion at junction of field boundaries,,,Erosion,,,,,,3
+3107,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3108,fill,3107,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3109,fill,3096,NW-SE aligned ditch,,,Ditch/other linear,,,3E,,,3
+3110,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3111,fill,3110,NW-SE aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3112,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3113,fill,3112,E-W aligned ditch,,,Ditch/other linear,2,2,3D,,,3
+3114,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3115,fill,3114,Watering hole,,,Watering hole,2,2,3L,,,3
+3116,fill,3114,Watering hole,,,Watering hole,2,2,3L,,,3
+3117,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3118,fill,3117,Watering hole,,,Watering hole,2,2,3L,,,3
+3119,fill,3117,Watering hole,,,Watering hole,2,2,3L,,,3
+3120,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3121,fill,3120,Watering hole,,,Watering hole,2,2,3L,,,3
+3122,fill,3120,Watering hole,,,Watering hole,2,2,3L,,,3
+3123,fill,3120,Watering hole,,,Watering hole,2,2,3L,,,3
+3124,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3125,fill,3124,Watering hole,,,Watering hole,2,2,3L,,,3
+3126,fill,3124,Watering hole,,,Watering hole,2,2,3L,,,3
+3127,fill,3124,Watering hole,,,Watering hole,2,2,3L,,,3
+3128,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3129,fill,3128,Watering hole,,,Watering hole,2,2,3L,,,3
+3130,fill,3128,Watering hole,,,Watering hole,2,2,3L,,,3
+3131,fill,3128,Watering hole,,,Watering hole,2,2,3L,,,3
+3132,cut,,Watering hole,,,Watering hole,2,2,3L,,,3
+3133,fill,3132,Watering hole,,,Watering hole,2,2,3L,,,3
+3134,fill,3132,Watering hole,,,Watering hole,2,2,3L,,,3
+3135,fill,3132,Watering hole,,,Watering hole,2,2,3L,,,3
+3136,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3137,fill,3136,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3138,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3139,fill,3138,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3140,fill,3138,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3141,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3142,fill,3141,Tree bole,,,Tree hole/bowl,2,2,,,,3
+3143,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3144,fill,3143,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3145,fill,3143,NW-SE aligned ditch,,,Ditch/other linear,2,2,3E,,,3
+3146,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3147,fill,3146,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3150,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3151,fill,3150,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3152,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3153,fill,3152,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3154,cut,,Pit,,,Pit,0,0,,,,3
+3155,fill,3154,Pit,,,Pit,0,0,,,,3
+3156,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3157,fill,3156,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3158,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3159,fill,3158,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3160,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3I,,,3
+3161,fill,3160,NE-SW aligned ditch,,,Ditch/other linear,2,2,3I,,,3
+3162,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3163,fill,3162,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3164,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3165,fill,3164,NW-SE aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3166,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3167,fill,3166,NW-SE aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3168,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3I,,,3
+3169,fill,3168,NE-SW aligned ditch,,,Ditch/other linear,2,2,3I,,,3
+3170,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3171,fill,3170,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3172,cut,,Pit,,,Pit,0,0,,,,3
+3173,fill,3172,Pit,,,Pit,0,0,,,,3
+3174,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3175,fill,3174,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3176,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3177,fill,3176,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3178,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3179,fill,3178,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3180,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3181,fill,3180,NE-SW aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3182,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3183,fill,3182,NE-SW aligned ditch,,,Ditch/other linear,2,2,3H,,,3
+3184,cut,,Pit,,,Pit,0,0,,,,3
+3185,fill,3184,Pit,,,Pit,0,0,,,,3
+3186,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3187,fill,3186,Tree bole,,,Tree hole/bowl,,,,,,3
+3188,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3189,fill,3188,Tree bole,,,Tree hole/bowl,,,,,,3
+3190,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3191,fill,3190,NW-SE aligned ditch,,,Ditch/other linear,2,2,3J,,,3
+3192,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3193,fill,3192,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3194,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3195,fill,3194,NE-SW aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3196,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3197,fill,3196,N-S aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3198,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3199,fill,3198,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3200,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3201,fill,3200,NE-SW aligned ditch,,,Ditch/other linear,2,2,3K,,,3
+3202,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3203,fill,3202,N-S aligned ditch,,,Ditch/other linear,2,2,3G,,,3
+3204,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3205,fill,3204,Tree bole,,,Tree hole/bowl,,,,,,3
+3206,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3207,fill,3206,Tree bole,,,Tree hole/bowl,,,,,,3
+3208,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3209,fill,3208,Tree bole,,,Tree hole/bowl,,,,,,3
+3210,cut,,Tree throw,,,Tree hole/bowl,,,,,,3
+3211,fill,3210,Tree throw,,,Tree hole/bowl,,,,,,3
+3212,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,3
+3213,fill,3212,Tree throw,,,Tree hole/bowl,0,0,,,,3
+3214,cut,,Tree bole,,,Tree hole/bowl,,0,,,,3
+3215,fill,3214,Tree bole,,,Tree hole/bowl,,,,,,3
+3216,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3217,fill,3216,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3220,cut,,Watering hole,,,Watering hole,0,0,3L,,,3
+3221,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3222,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3223,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3224,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3225,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3226,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3227,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3228,cut,,Watering hole,,,Watering hole,0,0,3L,,,3
+3229,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3230,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3231,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3232,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3233,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3234,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3235,fill,3228,Watering hole,,,Watering hole,0,0,3L,,,3
+3236,fill,3220,Watering hole,,,Watering hole,0,0,3L,,,3
+3237,cut,,Watering hole,,,Watering hole,0,0,3M,,,3
+3238,fill,3237,Watering hole,,,Watering hole,0,0,3M,,,3
+3239,fill,3237,Watering hole,,,Watering hole,0,0,3M,,,3
+3240,cut,,NE-SW aligned furrow,,,Furrow,,,,,,3
+3241,fill,3240,NE-SW aligned furrow,,,Furrow,,,,,,3
+3242,cut,,Pit,,,Pit,0,0,,,,3
+3243,fill,3242,Pit,,,Pit,0,0,,,,3
+3244,cut,,Tree bole,,,Tree hole/bowl,,,,,,3
+3245,fill,3244,Tree bole,,,Tree hole/bowl,,,,,,3
+3246,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,3
+3247,fill,3246,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,3
+3248,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,,,,3
+3249,fill,3248,E-W aligned ditch,,,Ditch/other linear,2,2,,,,3
+3250,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,,,,3
+3251,fill,3250,N-S aligned ditch also contains N-S aligned field drain,,,Ditch/other linear,2,2,,,,3
+3252,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,,,,3
+3253,fill,3252,N-S aligned ditch,,,Ditch/other linear,2,2,,,,3
+3254,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3255,fill,3254,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3256,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,3
+3257,fill,3256,Tree bole,,,Tree hole/bowl,0,0,,,,3
+4000,layer,,Topsoil,,,Topsoil,,,,,,4
+4001,layer,,Subsoil,,,Subsoil,3,3,,,,4
+4002,layer,,Natural geological substrate,,,Natural strata,,,,,,4
+4003,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4004,fill,4003,NW-SE aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4005,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4006,fill,4005,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4007,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,4
+4008,fill,4007,Tree bole,,,Tree hole/bowl,2,2,,,,4
+4009,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4010,fill,4009,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4011,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4012,fill,4011,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4013,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4014,fill,4013,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4015,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4016,fill,4015,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4017,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4018,fill,4017,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4019,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4020,fill,4019,N-S aligned ditch,,,Ditch/other linear,2,2,4R,,,4
+4021,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4022,fill,4021,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4023,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4F,,,4
+4024,fill,4023,N-S aligned ditch,,,Ditch/other linear,2,2,4F,,,4
+4025,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4026,fill,4025,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4027,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4028,fill,4027,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4029,cut,,Firepit,,,Pit,0,0,,,,4
+4030,fill,4029,Firepit,,,Pit,0,0,,,,4
+4031,cut,,N-S aligned furrow,,,Furrow,3,3,,,,4
+4032,fill,4031,N-S aligned furrow,,,Furrow,3,3,,,,4
+4033,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4034,fill,4033,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4035,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4036,fill,4035,NW-SE aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4037,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4038,fill,4037,NW-SE aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4039,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4040,fill,4039,NE-SW aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4041,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4042,fill,4041,E-W aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4043,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4G,,,4
+4044,fill,4043,N-S aligned ditch,,,Ditch/other linear,2,2,4G,,,4
+4045,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4046,fill,4045,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4047,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4F,,,4
+4048,fill,4047,NW-SE aligned ditch,,,Ditch/other linear,2,2,4F,,,4
+4049,cut,,Tree throw,,,Tree hole/bowl,2,2,,,,4
+4050,fill,4049,Tree bole,,,Tree hole/bowl,2,2,,,,4
+4051,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4052,fill,4051,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4053,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4H,,,4
+4054,fill,4053,N-S aligned ditch,,,Ditch/other linear,2,2,4H,,,4
+4055,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,4
+4056,fill,4055,Tree bole,,,Tree hole/bowl,2,2,,,,4
+4057,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4058,fill,4057,NW-SE aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4059,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4060,fill,4059,NW-SE aligned ditch,,,Ditch/other linear,0,0,4G,,,4
+4061,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4062,fill,4061,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4063,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4064,fill,4063,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4065,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4066,fill,4065,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4067,cut,,N-S aligned ditch,,,Ditch/other linear,,,4G,,,4
+4068,fill,4067,N-S aligned ditch,,,Ditch/other linear,,,4G,,,4
+4069,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4070,fill,4069,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4071,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4072,fill,4071,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4073,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4074,fill,4073,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4075,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4076,fill,4075,NW-SE aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4077,cut,,Pit,,,Pit,0,0,,,,4
+4078,fill,4077,Pit,,,Pit,0,0,,,,4
+4079,cut,,Pit/tree bole,,,Pit,,,,,,4
+4080,fill,4079,Pit/tree bole,,,Pit,,,,,,4
+4081,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4G,,,4
+4082,fill,4081,N-S aligned ditch,,,Ditch/other linear,2,2,4G,,,4
+4083,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4084,fill,4083,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4085,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4086,fill,4085,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4087,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4088,fill,4087,NW-SE aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4089,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4090,fill,4089,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4091,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4092,fill,4091,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4093,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4094,fill,4093,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4095,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4096,fill,4095,E-W aligned ditch,,,Ditch/other linear,2,2,4A,,,4
+4097,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4098,fill,4097,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4099,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4100,fill,4099,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4101,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4102,fill,4101,NW-SE aligned ditch,,,Ditch/other linear,2,2,4L,,,4
+4103,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4104,fill,4103,NE-SW aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4105,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4106,fill,4105,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4107,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4108,fill,4107,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4109,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4110,fill,4109,N-S aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4111,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4112,fill,4111,NE-SW aligned ditch,,,Ditch/other linear,2,2,4J,,,4
+4113,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4114,fill,4113,E-W aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4115,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4116,fill,4115,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4117,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4118,fill,4117,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4119,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4120,fill,4119,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4121,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4122,fill,4121,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4123,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4124,fill,4123,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4125,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4126,fill,4125,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4127,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4128,fill,4127,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4129,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4130,fill,4129,NE-SW aligned ditch,,,Ditch/other linear,2,2,4E,,,4
+4131,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4132,fill,4131,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4133,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4134,fill,4133,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4135,cut,,ENE-WSW aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4136,fill,4135,ENE-WSW aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4137,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4138,fill,4137,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4139,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4140,fill,4139,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4141,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4142,fill,4141,E-W aligned ditch,,,Ditch/other linear,2,2,4K,,,4
+4143,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4144,fill,4143,NE-SW aligned ditch,,,Ditch/other linear,2,2,4I,,,4
+4146,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4147,fill,4146,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4148,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4149,fill,4148,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4150,cut,,Watering hole/pond,,,Watering hole/pond,2,2,,,,4
+4151,fill,4150,Watering hole/pond,,,Watering hole/pond,2,2,,,,4
+4152,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4153,fill,4152,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4154,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4155,fill,4154,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4156,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4157,fill,4156,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4158,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4159,fill,4158,NE-SW aligned ditch,,,Ditch/other linear,2,2,4D,,,4
+4162,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,4
+4163,fill,4162,Tree bole,,,Tree hole/bowl,0,0,,,,4
+4164,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4165,fill,4164,Tree throw,,,Tree hole/bowl,0,0,,,,4
+4166,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4167,fill,4166,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4168,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4169,fill,4168,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4170,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4171,fill,4170,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4172,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4Q,,,4
+4173,fill,4172,E-W aligned ditch,,,Ditch/other linear,2,2,4Q,,,4
+4174,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4175,fill,4174,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4176,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4177,fill,4176,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4178,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4179,fill,4178,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4180,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4181,fill,4180,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4182,cut,,N-S aligned ditch turning NW-SE,,,Ditch/other linear,2,2,4Q,,,4
+4183,fill,4182,N-S aligned ditch turning NW-SE,,,Ditch/other linear,2,2,4Q,,,4
+4184,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4185,fill,4184,E-W aligned ditch,,,Ditch/other linear,2,2,4B,,,4
+4186,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4Q,,,4
+4187,fill,4186,NW-SE aligned ditch,,,Ditch/other linear,2,2,4Q,,,4
+4188,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4189,fill,4188,E-W aligned ditch,,,Ditch/other linear,2,2,4C,,,4
+4190,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4P,,,4
+4191,fill,4190,NW-SE aligned ditch,,,Ditch/other linear,2,2,4P,,,4
+4192,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4193,fill,4192,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4194,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4195,fill,4194,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4196,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4197,fill,4196,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4198,cut,,NW-SE aligned ditch turning NE-SW,,,Ditch/other linear,2,2,4P,,,4
+4199,fill,4198,NW-SE aligned ditch turning NE-SW,,,Ditch/other linear,2,2,4P,,,4
+4200,cut,,NW-SE aligned ditch turning N-S,,,Ditch/other linear,2,2,4P,,,4
+4201,fill,4200,NW-SE aligned ditch turning N-S,,,Ditch/other linear,2,2,4P,,,4
+4202,cut,,NW-SE aligned ditch turning N-S,,,Ditch/other linear,2,2,4P,,,4
+4203,fill,4202,NW-SE aligned ditch turning N-S,,,Ditch/other linear,2,2,4P,,,4
+4204,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4205,fill,4204,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4206,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4207,fill,4206,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4208,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4209,fill,4208,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4210,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4211,fill,4210,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4212,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4213,fill,4212,NW-SE aligned ditch,,,Ditch/other linear,2,2,4N,,,4
+4214,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4215,fill,4214,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4216,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4217,fill,4216,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4218,fill,4196,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4219,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4220,fill,4219,NW-SE aligned ditch,,,Ditch/other linear,2,2,4O,,,4
+4221,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4222,fill,4221,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4223,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+4224,fill,4223,NW-SE aligned ditch,,,Ditch/other linear,2,2,4M,,,4
+5000,layer,,Topsoil,,,Topsoil,,,,,,5
+5001,layer,,Subsoil,,,Subsoil,3,3,,,,5
+5002,layer,,Natural geological substrate,,,Natural strata,,,,,,5
+5003,cut,,Well/quarry pit,,,Well/quarry pit,0,0,5C,,,5
+5004,fill,5003,Well/quarry pit,,,Well/quarry pit,0,0,5C,,,5
+5005,fill,5003,Well/quarry pit,,,Well/quarry pit,0,0,5C,,,5
+5006,fill,5003,Well/quarry pit,,,Well/quarry pit,0,0,5C,,,5
+5007,fill,5003,Well/quarry pit,,,Well/quarry pit,0,0,5C,,,5
+5008,cut,,Well/quarry pit,,,Well/quarry pit,0,0,5B,,,5
+5009,fill,5008,Well/quarry pit,,,Well/quarry pit,0,0,5B,,,5
+5010,fill,5008,Well/quarry pit,,,Well/quarry pit,0,0,5B,,,5
+5011,fill,5008,Well/quarry pit,,,Well/quarry pit,0,0,5B,,,5
+5012,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5013,fill,5012,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5014,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5015,fill,5014,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5016,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5017,fill,5016,NE-SW aligned ditch,,,Ditch/other linear,0,0,5A,,,5
+5018,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,5
+5019,fill,5018,Tree bole,,,Tree hole/bowl,0,0,,,,5
+5020,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,5
+5021,fill,5020,Tree bole,,,Tree hole/bowl,0,0,,,,5
+5022,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,5
+5023,fill,5022,Tree throw,,,Tree hole/bowl,0,0,,,,5
+5024,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,5
+5025,fill,5024,Tree bole,,,Tree hole/bowl,0,0,,,,5
+6000,layer,,Topsoil,,,Topsoil,,,,,,6
+6001,layer,,Subsoil,,,Subsoil,,,,,,6
+6002,layer,,Natural geological substrate,,,Natural strata,,,,,,6
+6003,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6004,fill,6003,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6005,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6006,fill,6005,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6007,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,6
+6008,fill,6007,NE-SW aligned furrow,,,Furrow,3,3,,,,6
+6009,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6010,fill,6009,N-S aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6011,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6012,fill,6011,N-S aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6013,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6014,fill,6013,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6015,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6016,fill,6015,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6017,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6018,fill,6017,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6019,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6020,fill,6019,NW-SE aligned ditch,,,Ditch/other linear,2,2,6A,,,6
+6021,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6022,fill,6021,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6023,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6024,fill,6023,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6025,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6026,fill,6025,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6027,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,6
+6028,fill,6027,NE-SW aligned furrow,,,Furrow,3,3,,,,6
+6029,fill,6021,NW-SE aligned ditch,,,Ditch/other linear,2,2,6B,,,6
+6030,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6031,fill,6030,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6032,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6033,fill,6032,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6034,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6035,fill,6034,NW-SE aligned ditch,,,Ditch/other linear,0,0,6C,,,6
+6036,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6037,fill,6036,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6038,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6039,fill,6038,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6040,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6041,fill,6040,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6042,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6043,fill,6042,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6044,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6E,,,6
+6045,fill,6044,N-S aligned ditch,,,Ditch/other linear,2,2,6E,,,6
+6046,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6047,fill,6046,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6048,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6049,fill,6048,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6050,fill,6048,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6051,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6052,fill,6051,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6053,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6054,fill,6053,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6055,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6056,fill,6055,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6057,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6E,,,6
+6058,fill,6057,N-S aligned ditch,,,Ditch/other linear,2,2,6E,,,6
+6059,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6060,fill,6059,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6061,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6062,fill,6061,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6063,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6064,fill,6063,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6065,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,6F,,,6
+6066,fill,6065,NE-SW aligned ditch,,,Ditch/other linear,0,0,6F,,,6
+6067,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6068,fill,6067,N-S aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6069,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,6F,,,6
+6070,fill,6069,NE-SW aligned ditch,,,Ditch/other linear,0,0,6F,,,6
+6071,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6072,fill,6071,NW-SE aligned ditch,,,Ditch/other linear,2,2,6D,,,6
+6073,cut,,N-S aligned ditch,,,Ditch/other linear,0,0,6J,,,6
+6074,fill,6073,N-S aligned ditch,,,Ditch/other linear,0,0,6J,,,6
+6075,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6076,fill,6075,NE-SW aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6077,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6I,,,6
+6078,fill,6077,NE-SW aligned ditch,,,Ditch/other linear,2,2,6I,,,6
+6079,cut,,NW-SE aligned furrow,,,Furrow,3,3,,,,6
+6080,fill,6079,NW-SE aligned furrow,,,Furrow,3,3,,,,6
+6081,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6082,fill,6081,N-S aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6083,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6K,,,6
+6084,fill,6083,NE-SW aligned ditch,,,Ditch/other linear,2,2,6K,,,6
+6085,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6L,,,6
+6086,fill,6085,NE-SW aligned ditch,,,Ditch/other linear,2,2,6L,,,6
+6087,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6088,fill,6087,NE-SW aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6089,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6090,fill,6089,Tree bole,,,Tree hole/bowl,0,0,,,,6
+6091,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6092,fill,6091,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6093,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,6
+6094,fill,6093,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,6
+6095,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6096,fill,6095,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6097,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6098,fill,6097,NE-SW aligned ditch,,,Ditch/other linear,2,2,6J,,,6
+6099,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6100,fill,6099,E-W aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6101,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6102,fill,6101,E-W aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6103,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,6
+6104,fill,6103,Tree bole,,,Tree hole/bowl,2,2,,,,6
+6105,cut,,E-W aligned furrow,,,Furrow,3,3,,,,6
+6106,fill,6105,E-W aligned furrow,,,Furrow,3,3,,,,6
+6107,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6108,fill,6107,NW-SE aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6109,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6110,fill,6109,NE-SW aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6111,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,6K,,,6
+6112,fill,6111,E-W aligned ditch,,,Ditch/other linear,2,2,6K,,,6
+6113,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6114,fill,6113,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6115,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6116,fill,6115,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6117,cut,,NE-SW aligned ditch,,,Ditch/other linear,0,0,6J,,,6
+6118,fill,6117,NE-SW aligned ditch,,,Ditch/other linear,0,0,6J,,,6
+6119,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6120,fill,6119,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6121,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6122,fill,6121,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6123,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6124,fill,6123,NE-SW aligned ditch,,,Ditch/other linear,2,2,6H,,,6
+6125,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6126,fill,6125,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6127,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6128,fill,6127,E-W aligned ditch,,,Ditch/other linear,0,0,6I,,,6
+6129,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6130,fill,6129,NW-SE aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6131,fill,6129,NW-SE aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6132,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6133,fill,6132,NW-SE aligned ditch,,,Ditch/other linear,2,2,6G,,,6
+6134,cut,,NW-SE aligned furrow,,,Furrow,3,3,,,,6
+6135,fill,6134,NW-SE aligned furrow,,,Furrow,3,3,,,,6
+7000,layer,,Topsoil,,,Topsoil,,,,,,7
+7001,layer,,Subsoil,,,Subsoil,3,3,,,,7
+7002,layer,,Natural geological substrate,,,Natural strata,,,,,,7
+7003,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7004,fill,7003,NW-SE aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7005,cut,,NW-SE aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7006,fill,7005,NW-SE aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7007,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7008,fill,7007,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7009,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7010,fill,7009,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7011,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7012,fill,7011,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7013,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7014,fill,7013,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7015,cut,,E-W aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7016,fill,7015,E-W aligned ditch,,,Ditch/other linear,0,0,7H,,,7
+7017,cut,,Tree bole,,,Tree hole/bowl,1,1,,,,7
+7018,fill,7017,Tree bole,,,Tree hole/bowl,1,1,,,,7
+7019,cut,,NW-SE aligned furrow,,,Furrow,3,3,,,,7
+7020,fill,7019,NW-SE aligned furrow,,,Furrow,3,3,,,,7
+7021,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7022,fill,7021,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7023,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7024,fill,7023,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7025,cut,,E-W aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7026,fill,7025,E-W aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7027,cut,,E-W aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7028,fill,7027,E-W aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7029,cut,,E-W aligned ditch,,,Ditch/other linear,1,1,7J,,,7
+7030,fill,7029,E-W aligned ditch,,,Ditch/other linear,1,1,7J,,,7
+7031,cut,,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7032,fill,7031,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7033,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7034,fill,7033,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7035,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7036,fill,7035,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7037,cut,,NE-SW aligned furrow,,,Furrow,3,3,,,,7
+7038,fill,7037,NE-SW aligned furrow,,,Furrow,3,3,,,,7
+7039,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7040,fill,7039,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7041,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7042,fill,7041,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7043,cut,,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7044,fill,7043,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7045,cut,,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7046,fill,7045,NW-SE aligned ditch,,,Ditch/other linear,1,1,7D,,,7
+7047,cut,,Pit,,,Pit,0,0,,,,7
+7048,fill,7047,Pit,,,Pit,0,0,,,,7
+7049,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7050,fill,7049,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7051,cut,,Pit,,,Pit,0,1,,,,7
+7052,fill,7051,Pit,,,Pit,0,1,,,,7
+7053,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7054,fill,7053,NE-SW aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7055,cut,,E-W aligned ditch,,,Ditch/other linear,1,1,7H,,,7
+7056,fill,7055,E-W aligned ditch,,,Ditch/other linear,1,1,7H,,,7
+7057,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7058,fill,7057,NE-SW aligned ditch,,,Ditch/other linear,3?,3?,7C,,,7
+7059,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7060,fill,7059,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7061,deposit,,Natural flood deposit,,,Natural soil,0,0,,,,7
+7062,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7063,fill,7062,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7064,cut,,Pit,,,Pit,1,1,,,,7
+7065,fill,7064,Pit,,,Pit,1,1,,,,7
+7066,fill,7064,Pit,,,Pit,1,1,,,,7
+7067,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7B,,,7
+7068,fill,7067,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7B,,,7
+7069,fill,7067,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7B,,,7
+7070,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7071,fill,7070,NE-SW aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7072,cut,,Pit,,,Pit,1,1,,,,7
+7073,fill,7072,Pit,,,Pit,1,1,,,,7
+7074,fill,7072,Pit,,,Pit,1,1,,,,7
+7075,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7I,,,7
+7076,fill,7075,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7I,,,7
+7077,fill,7075,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7I,,,7
+7078,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7079,fill,7078,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7080,cut,,Pit,,,Pit,1,1,,,,7
+7081,fill,7080,Pit,,,Pit,1,1,,,,7
+7082,cut,,Pit,,,Pit,1,1,,,,7
+7083,fill,7082,Pit,,,Pit,1,1,,,,7
+7084,fill,7082,Pit,,,Pit,1,1,,,,7
+7085,cut,,N-S aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7086,fill,7085,N-S aligned ditch,,,Ditch/other linear,1,1,7B,,,7
+7087,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7088,fill,7087,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7089,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7090,fill,7089,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7091,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7092,fill,7091,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7093,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7094,fill,7093,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7096,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7097,fill,7096,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7098,cut,,N-S aligned ditch,,,Ditch/other linear,1,1,7A,,,7
+7099,fill,7098,N-S aligned ditch,,,Ditch/other linear,1,1,7A,,,7
+7100,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7101,fill,7100,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7102,cut,,NE-SW aligned ditch,,,Ditch/other linear,1,1,7A,,,7
+7103,fill,7102,NE-SW aligned ditch,,,Ditch/other linear,1,1,7A,,,7
+7104,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7105,fill,7104,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7106,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7107,fill,7106,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7108,cut,,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7109,fill,7108,NE-SW aligned ditch turning NW-SE,,,Ditch/other linear,1,1,7A,,,7
+7110,cut,,E-W aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7111,fill,7110,E-W aligned ditch,,,Ditch/other linear,1,1,7C,,,7
+7112,cut,,E-W aligned gully,,,Ditch/other linear,1,1,7E,,,7
+7113,fill,7112,E-W aligned gully,,,Ditch/other linear,1,1,7E,,,7
+7114,cut,,NW-SE aligned ditch,,,Ditch/other linear,1,1,7F,,,7
+7115,fill,7114,NW-SE aligned ditch,,,Ditch/other linear,1,1,7F,,,7
+7116,cut,,Watering hole,,,Watering hole,1,1,,,,7
+7117,fill,7116,Watering hole,,,Watering hole,1,1,,,,7
+7124,cut,,Pit,,,Pit,3,3,,,,7
+7125,fill,7124,Pit,,,Pit,3,3,,,,7
+7126,cut,,N-S aligned ditch,,,Ditch/other linear,1,1,,,,7
+7127,fill,7126,N-S aligned ditch,,,Ditch/other linear,1,1,,,,7
+7128,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7129,fill,7128,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7130,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7131,fill,7130,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7132,deposit,,Natural flood deposit,,,Natural soil,0,0,,,,7
+7133,cut,,Borehole,,,Borehole,0,0,,,,7
+7134,fill,7133,Borehole,,,Borehole,0,0,,,,7
+7135,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7136,fill,7135,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7137,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7138,fill,7137,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7139,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7140,fill,7139,Tree bole,,,Tree hole/bowl,0,0,,,,7
+7141,cut,,N-S aligned ditch,,,Ditch/other linear,1,1,7F,,,7
+7142,fill,7141,N-S aligned ditch,,,Ditch/other linear,1,1,7F,,,7
+7143,cut,,NW-SE aligned ditch,,,Ditch/other linear,1,1,,,,7
+7144,fill,7143,NW-SE aligned ditch,,,Ditch/other linear,1,1,,,,7
+7145,fill,7143,NW-SE aligned ditch,,,Ditch/other linear,1,1,,,,7
+7146,cut,,Watering hole,,,Watering hole,1,1,7G,,,7
+7147,fill,7146,Watering hole,,,Watering hole,1,1,7G,,,7
+7148,fill,7146,Watering hole,,,Watering hole,1,1,7G,,,7
+7149,fill,7147,Watering hole,,,Watering hole,1,1,7G,,,7
+7150,fill,7146,Watering hole,,,Watering hole,1,1,7G,,,7
+7151,fill,7146,Watering hole,,,Watering hole,3?,3?,7G,,,7
+8001,layer,,Topsoil/subsoil,,,Topsoil/Subsoil,,,,,,8
+8002,layer,,Natural geological substrate,,,Natural strata,,,,,,8
+8003,cut,,Pit,,,Pit,3,3,8C,,,8
+8004,fill,8003,Pit,,,Pit,3,3,8C,,,8
+8005,fill,8003,Pit,,,Pit,3,3,8C,,,8
+8006,fill,8003,Pit,,,Pit,3,3,8C,,,8
+8007,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8008,fill,8007,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8009,cut,,Pit,,,Pit,3,3,8C,,,8
+8010,fill,8009,Pit,,,Pit,3,3,8C,,,8
+8011,fill,8009,Pit,,,Pit,3,3,8C,,,8
+8012,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8013,fill,8012,NE-SW aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8014,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8015,fill,8014,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8016,fill,8014,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8017,fill,8036,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8018,fill,8036,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8019,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8020,fill,8019,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+8021,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,8
+8022,fill,8021,Tree bole,,,Tree hole/bowl,0,0,,,,8
+8023,cut,,NW-SE aligned furrow,,,Furrow,3,3,,,,8
+8024,fill,8023,NW-SE aligned furrow,,,Furrow,3,3,,,,8
+8025,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,8
+8026,fill,8025,Tree bole,,,Tree hole/bowl,0,0,,,,8
+8027,cut,,Pit,,,Pit,1,1,,,,8
+8028,fill,8027,Pit,,,Pit,1,1,,,,8
+8029,fill,8027,Pit,,,Pit,1,1,,,,8
+8030,cut,,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8031,fill,8030,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8032,fill,8030,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8033,cut,,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8034,fill,8033,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8035,fill,8033,Pit/watering hole,,,Pit/watering hole,2,2,8B,,,8
+8036,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,8A,,,8
+9000,layer,,Topsoil,,,Topsoil,,,,,,9
+9001,layer,,Subsoil,,,Subsoil,3,3,,,,9
+9002,layer,,Natural geological substrate,,,Natural strata,,,,,,9
+9003,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9004,fill,9003,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9005,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9006,fill,9005,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9007,cut,,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9008,fill,9007,E-W aligned ditch,,,Ditch/other linear,2,2,9A,,,9
+9009,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9010,fill,9009,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9011,cut,,E-W aligned gully,,,Ditch/other linear,2,2,9C,,,9
+9012,fill,9011,E-W aligned gully,,,Ditch/other linear,2,2,9C,,,9
+9013,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,9
+9014,fill,9013,Tree bole,,,Tree hole/bowl,0,0,,,,9
+9015,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9016,fill,9015,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9017,cut,,Pit/tree bole,,,Pit/tree bole,2,2,,,,9
+9018,fill,9017,Pit/tree bole,,,Pit/tree bole,2,2,,,,9
+9019,cut,,E-W aligned gully,,,Ditch/other linear,2,2,9C,,,9
+9020,fill,9019,E-W aligned gully,,,Ditch/other linear,2,2,9C,,,9
+9021,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,9
+9022,fill,9021,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,9
+9023,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9024,fill,9023,NW-SE aligned ditch,,,Ditch/other linear,2,2,9B,,,9
+9025,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,9
+9026,fill,9025,Tree throw,,,Tree hole/bowl,0,0,,,,9
+9027,cut,,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,9
+9028,fill,9027,NE-SW aligned ditch,,,Ditch/other linear,2,2,,,,9
+9029,cut,,Pit,,,Pit,0,0,,,,9
+9030,fill,9029,Pit,,,Pit,0,0,,,,9
+9031,fill,9029,Pit,,,Pit,0,0,,,,9
+9032,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,9
+9033,fill,9032,Tree bole,,,Tree hole/bowl,0,0,,,,9
+10000,layer,,Topsoil,,,Topsoil,,,,,,10
+10001,layer,,Subsoil,,,Subsoil,3,3,,,,10
+10002,layer,,Natural geological substrate,,,Natural strata,,,,,,10
+10003,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10004,fill,10003,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10005,cut,,Tree throw,,,Tree hole/bowl,0,0,,,,10
+10006,fill,10005,Tree throw,,,Tree hole/bowl,0,0,,,,10
+10007,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,,,,10
+10008,fill,10007,N-S aligned ditch,,,Ditch/other linear,2,2,,,,10
+10009,cut,,Pit,,,Pit,0,0,,,,10
+10010,fill,10009,Pit,,,Pit,0,0,,,,10
+10011,fill,10009,Pit,,,Pit,0,0,,,,10
+10012,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10013,fill,10012,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10014,fill,10012,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10015,cut,,Tree bole,,,Tree hole/bowl,2,2,,,,10
+10016,fill,10015,Tree bole,,,Tree hole/bowl,2,2,,,,10
+10017,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10018,fill,10017,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10019,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10020,fill,10019,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10021,cut,,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10022,fill,10021,N-S aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10023,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10024,fill,10023,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10025,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10026,fill,10025,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10027,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10028,fill,10027,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10029,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10030,fill,10029,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10031,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10032,fill,10031,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10033,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10034,fill,10033,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10035,cut,,NW-SE aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10036,fill,10035,NW-SE aligned ditch,,,Ditch/other linear,2,2,10A,,,10
+10037,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10038,fill,10037,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10039,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10040,fill,10039,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10041,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10042,fill,10041,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10043,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10044,fill,10043,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10045,cut,,Tree bole,,,Tree hole/bowl,0,0,,,,10
+10046,fill,10045,Tree bole,,,Tree hole/bowl,0,0,,,,10

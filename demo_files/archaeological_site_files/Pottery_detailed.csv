@@ -1,0 +1,72 @@
+?Context,SS,Area,Date,fabric,Form_generic,Form_specific,Count,weight,EVEs,Soot,BFR,commts,Condition
+6092,,6,Roman,A,jar,lid-seated,2,50,15,0,0,,Good
+3131,,3,Roman,A,,,1,10,0,0,0,,Sl abr
+6047,,6,Roman,A3,,,1,26,0,0,0,,Good
+1355,,1,Roman,A8,,,1,2,0,0,1,,Heavy abr
+8026,,8,Roman,A8,,,1,13,0,0,0,,Heavy abr
+6092,,6,Roman,B,,,1,3,0,0,0,,Mod abr
+10020,,10,Roman,C,jar,storage,1,100,9,0,0,,Mod abr/surf pres
+3122,,3,Roman,C,,,1,3,0,0,0,,Heavy abr
+0,,4,Roman,C15,,,1,23,0,0,0,,Mod abr
+1243,,1,Roman,C15,,,1,3,0,0,0,,Good
+4010,,4,Roman,C15,,,1,17,0,0,0,,Sl abr
+9001,,9,Roman,C15,,,1,4,0,0,0,,Mod abr
+8032,,8,Roman,C16,,,1,3,0,0,0,,Mod abr
+3079,,3,Roman,C17,,,1,21,0,0,0,,Sl abr
+9001,,9,Roman,C18,,,1,14,0,0,0,,Mod abr
+0,,3,Roman,C19,jar,,1,6,5,0,0,,Mod abr
+1397,,1,Roman,C19,,,1,1,0,0,0,,Sl abr
+3055,,3,Roman,C19,,,1,0.5,0,0,0,,Mod abr
+6086,,6,Roman,C19,,,0,1,0,0,0,,Sl abr
+0,,,Roman,C20,jar,lid-seated,1,15,12,0,0,,Mod abr
+6082,,6,Roman,C20,jar,necked,1,2,3,0,0,,Mod abr
+3079,,3,Roman,C20,jar,necked,1,3,2,0,0,,Mod abr
+1025,6,1,Roman,C20,,,1,0,0,0,0,,
+3057,,3,Roman,C20,jar,necked,1,15,0,0,0,,Mod abr
+3079,,3,Roman,C20,,,1,2,0,0,0,,Mod abr
+3142,,3,Roman,C20,,,2,10,0,0,0,,Sl abr
+4006,,4,Roman,C20,,,1,1,0,0,1,,Sl abr
+6001,,6,Roman,C20,,,1,7,0,0,0,,Mod abr
+6082,,6,Roman,C20,,,2,5,0,0,0,,Sl abr
+10001,,10,Roman,C20,,,1,4,0,0,0,,Mod abr
+6004,,6,Roman,C24,,,1,53,0,0,0,,Mod abr
+6120,,6,Roman,C3,,,1,8,0,0,0,,Sl abr
+9001,,9,Roman,D,,,1,3,0,0,0,,Sl abr
+0,,4,Roman,D2,,,1,2,0,0,0,,Sl abr
+3001,,3,Roman,D2,,,3,5,0,0,0,,Mod abr
+3079,,3,Roman,D2,,,1,6,0,0,0,,"Sl abr, mod surf"
+3142,,3,Roman,D2,,,1,7,0,0,0,,Mod abr
+4197,,4,Roman,D2,,,1,0,0,0,0,,Mod
+4197,,4,Roman,D21,,,1,2,0,0,0,,Sl abr
+1009,,1,Roman,D42b,,,2,42,0,0,0,,"Poor surf pres, mod abr"
+6004,,6,Roman,D6/9,,,8,105,0,6,0,,Mod abr
+8028,,8,Early prehistoric,EP QZ,jar,"storage, slightly everted rim",1,22,4,0,0,,Heavy abr
+7147,,7,Early prehistoric,EP QZ,urn,collared,1,14,3,0,0,"Rows of fingertip impressions, EBA",Mod abr
+6001,,6,Post-medieval/modern,FLOW,,,1,31,0,0,0,,Good
+8028,,8,Early prehistoric,GR,jar,flattened overhanging rim,3,46,8,0,0,,Mod abr
+7097,,7,Late prehistoric,GR,,,1,9,0,0,0,,Mod abr
+7147,,7,Early prehistoric,GR,,,5,13,0,0,0,,Mod abr
+8028,,8,Early prehistoric,GR,,,75,625,0,0,0,,Mod abr
+8028,,8,Early prehistoric,GR,,,1,52,0,0,0,Applied strip with fingertip impressions,Mod abr
+7046,,7,Late prehistoric,GRAN,,,1,0.8,0,0,0,MIA,Poor
+7052,,7,Late prehistoric,GRAN,,,2,3,0,0,0,MIA,Poor
+7117,,7,Prehistoric,GRLS,,,5,3,0,0,0,Leached,Mod abr
+7026,,7,Late prehistoric,GRQZ,,,2,5,0,0,0,Joining base sherds LIA,Sl abr
+10016,,10,Late prehistoric,GRQZRK,,,1,58,0,0,0,,Heavy abr
+7151,,7,Medieval,MIDW,jar,Developed everted rim,3,59,10,0,0,,Mod abr
+6120,,6,Medieval,MIDW,,,1,30,0,0,0,"Base, thickish","Mod abr, not bad surf pres"
+7151,,7,Medieval,MIDW,,,7,14,0,0,0,,Mod/sl abr
+7151,,7,Medieval,OXAG,,,3,7,0,0,0,"sandy oxid fabrics, green/brown glaze",Mod abr/surf
+0,,4,Medieval,OXAW,,,1,2,0,0,0,,Mod abr/surf pres
+7081,,7,Prehistoric,QZ1,,,11,25,0,0,0,,Mod abr
+7107,,7,Prehistoric,QZ1,,,1,11,0,0,0,,Mod abr
+3055,,3,Late prehistoric,QZ2,,,1,1,0,0,0,,Poor
+6114,,6,Late prehistoric,QZ2,,,1,0.6,0,0,0,,Mod abr
+7026,,7,Late prehistoric,QZ2,,,1,3,0,0,0,,Mod abr
+7046,,7,Late prehistoric,QZ2,,,2,2,0,0,0,,Poor
+7151,,7,Late prehistoric,QZ2,,,1,12,0,0,0,,Heavy abr
+7097,,7,Late prehistoric,QZT,jar,ovoid,1,6,3,0,0,LBA,Mod abr
+7081,,7,Prehistoric,QZT,,,3,15,0,0,0,,Mod abr
+7063,,7,Prehistoric,SH,vess,squared grooved rim,1,12,5,0,0,,Sl abr
+7026,,7,Late prehistoric,SH,,,7,10,0,0,0,,Poor cond
+0,,,Post-medieval/modern,SW,,,1,9,0,0,0,,"Not abr, mod surf pres"
